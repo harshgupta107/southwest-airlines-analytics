@@ -1,0 +1,5 @@
+metric,actual_usd,expected_usd,status,benchmark_source
+operating_revenue,27483000000,27483000000,PASS,https://investors.southwest.com/sec-filings/all-sec-filings/content/0000092380-25-000024/luv-20241231.htm
+operating_expenses,27162000000,27162000000,PASS,https://investors.southwest.com/sec-filings/all-sec-filings/content/0000092380-25-000024/luv-20241231.htm
+operating_income,321000000,321000000,PASS,https://investors.southwest.com/sec-filings/all-sec-filings/content/0000092380-25-000024/luv-20241231.htm
+net_income,465000000,465000000,PASS,https://investors.southwest.com/sec-filings/all-sec-filings/content/0000092380-25-000024/luv-20241231.htm

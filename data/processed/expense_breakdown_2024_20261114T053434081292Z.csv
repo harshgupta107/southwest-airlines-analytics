@@ -1,0 +1,7 @@
+category,tag,expense_usd,unit,period_start,period_end,accession,source_snapshot,share_of_operating_expenses_pct
+"Salaries, wages and benefits",LaborAndRelatedExpense,12240000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261114T053434081292Z.json,45.06295559973492
+Fuel and oil,FuelCosts,5812000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261114T053434081292Z.json,21.39754068183492
+Other operating expenses,OtherCostAndExpenseOperating,4138000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261114T053434081292Z.json,15.23451881304764
+Landing fees and rentals,LandingFeesAndOtherRentals,1962000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261114T053434081292Z.json,7.223326706428098
+Depreciation and amortization,DepreciationAndAmortization,1657000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261114T053434081292Z.json,6.100434430454311
+Maintenance,AircraftMaintenanceMaterialsAndRepairs,1353000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261114T053434081292Z.json,4.981223768500111

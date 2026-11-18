@@ -1,0 +1,7 @@
+year,metric,source_total,airport_total,monthly_total,status
+2023,arr_flights,1438465.0,1438465.0,1438465.0,PASS
+2024,arr_flights,1419419.0,1419419.0,1419419.0,PASS
+2023,arr_del15,309963.0,309963.0,309963.0,PASS
+2024,arr_del15,289414.0,289414.0,289414.0,PASS
+2023,late_aircraft_delay,8002531.0,8002531.0,8002531.0,PASS
+2024,late_aircraft_delay,8089819.0,8089819.0,8089819.0,PASS

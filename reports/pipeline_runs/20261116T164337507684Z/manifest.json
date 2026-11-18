@@ -1,0 +1,41 @@
+{
+  "run_id": "20261116T164337507684Z",
+  "status": "PASS",
+  "scope": "Saved BTS checkpoint, backup recovery, reporting and forecasting",
+  "database": "southwest_pipeline_20261116t164337507684z",
+  "configuration": {
+    "bts_csv": "data/processed/bts_arrivals_2023_2024_20261113T180223779285Z.csv",
+    "database_backup": "backups/postgresql/southwest_analytics_20261114T054433356945Z.dump",
+    "monthly_view_sql": "sql/02_monthly_operations_view.sql"
+  },
+  "stages_completed": [
+    "BTS checkpoint validation",
+    "Python monthly reference",
+    "PostgreSQL availability",
+    "Database recovery and monthly SQL validation",
+    "Forecast backtest"
+  ],
+  "environment": {
+    "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+    "platform": "Linux-6.6.159+-x86_64-with-glibc2.39",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "postgresql_client": "psql (PostgreSQL) 16.15 (Ubuntu 16.15-0ubuntu0.24.04.1)"
+  },
+  "input_sha256": {
+    "bts_csv": "a9d988cf03e7473b97220789877f9de5e9606a79541597d39ec87d4f3821e4e3",
+    "database_backup": "406cd81ce651f1e070d2dd4bbabc75c2b1b1a12a135b3a36f18c2d488f5b195f",
+    "monthly_view_sql": "c18001b26793399119287dceddb797a544952ab46b4957d7136155d5bb468839"
+  },
+  "postgresql_port": "5432",
+  "source_rows": 2556,
+  "monthly_comparisons": 312,
+  "limitations": [
+    "Starts from preserved checkpoints; acquisition is not automated.",
+    "Restores a backup rather than testing a fresh CSV-to-SQL load.",
+    "Database validation compares rows and monthly aggregates, not every field or restored permissions.",
+    "Desktop Power BI and Excel refresh are outside this pipeline.",
+    "Forecasts are retrospective benchmarks, not official budgets.",
+    "Dependency versions recorded but not pinned."
+  ]
+}

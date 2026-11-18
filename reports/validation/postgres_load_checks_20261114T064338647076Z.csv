@@ -1,0 +1,15 @@
+year,metric,source_value,database_value,status
+2023,row_count,1284,1284,PASS
+2023,reported_flights,1438465,1438465,PASS
+2023,delayed_arrivals,309963,309963,PASS
+2023,cancelled_flights,14325,14325,PASS
+2023,diverted_flights,2902,2902,PASS
+2023,delay_minutes,15401971,15401971,PASS
+2023,late_aircraft_minutes,8002531,8002531,PASS
+2024,row_count,1272,1272,PASS
+2024,reported_flights,1419419,1419419,PASS
+2024,delayed_arrivals,289414,289414,PASS
+2024,cancelled_flights,11772,11772,PASS
+2024,diverted_flights,3050,3050,PASS
+2024,delay_minutes,15615468,15615468,PASS
+2024,late_aircraft_minutes,8089819,8089819,PASS

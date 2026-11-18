@@ -1,0 +1,6 @@
+metric,source_total,monthly_total,annual_total,status
+arr_flights,2857884.0,2857884.0,2857884.0,PASS
+arr_del15,599377.0,599377.0,599377.0,PASS
+arr_cancelled,26097.0,26097.0,26097.0,PASS
+arr_diverted,5952.0,5952.0,5952.0,PASS
+arr_delay,31017439.0,31017439.0,31017439.0,PASS

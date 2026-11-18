@@ -1,0 +1,2 @@
+check,calculated_usd,reported_usd,difference_usd,status
+Revenue minus operating expenses equals operating income,321000000,321000000,0,PASS

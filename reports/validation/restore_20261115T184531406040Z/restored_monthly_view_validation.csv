@@ -1,0 +1,14 @@
+metric,months_checked,mismatched_months,status
+airports_reporting,24,0,PASS
+reported_flights,24,0,PASS
+delayed_arrivals,24,0,PASS
+cancelled_flights,24,0,PASS
+diverted_flights,24,0,PASS
+delay_minutes,24,0,PASS
+late_aircraft_minutes,24,0,PASS
+on_time_flights,24,0,PASS
+cancellation_rate_pct,24,0,PASS
+delayed_flight_share_pct,24,0,PASS
+on_time_flight_share_pct,24,0,PASS
+avg_delay_minutes_per_delayed_arrival,24,0,PASS
+late_minutes_per_100_flights,24,0,PASS

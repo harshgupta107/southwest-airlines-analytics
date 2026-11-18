@@ -1,0 +1,17 @@
+year,metric,python_value,sql_value,status
+2023,cancellation_rate_pct,0.9958532185350356,0.9958532185350356,PASS
+2023,delayed_flight_share_pct,21.548178092619562,21.548178092619562,PASS
+2023,on_time_flight_share_pct,77.25422585881478,77.25422585881478,PASS
+2023,avg_delay_minutes_per_delayed_arrival,49.6897081264538,49.6897081264538,PASS
+2023,cancellation_change_pp,,,PASS
+2023,delayed_share_change_pp,,,PASS
+2023,on_time_share_change_pp,,,PASS
+2023,average_delay_change_minutes,,,PASS
+2024,cancellation_rate_pct,0.8293534185466025,0.8293534185466025,PASS
+2024,delayed_flight_share_pct,20.38961011512457,20.38961011512457,PASS
+2024,on_time_flight_share_pct,78.56615981609377,78.56615981609377,PASS
+2024,avg_delay_minutes_per_delayed_arrival,53.95546863662435,53.95546863662435,PASS
+2024,cancellation_change_pp,-0.16649979998843312,-0.1664997999884331,PASS
+2024,delayed_share_change_pp,-1.158567977494993,-1.1585679774949946,PASS
+2024,on_time_share_change_pp,1.3119339572789954,1.3119339572789896,PASS
+2024,average_delay_change_minutes,4.265760510170551,4.265760510170549,PASS

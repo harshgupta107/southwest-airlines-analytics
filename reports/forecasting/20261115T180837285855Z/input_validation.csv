@@ -1,0 +1,6 @@
+check,status
+Exactly 24 records,PASS
+Only carrier WN,PASS
+Unique monthly records,PASS
+Exact 2023–2024 month coverage,PASS
+Flight counts are finite positive integers,PASS

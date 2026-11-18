@@ -1,0 +1,6 @@
+2026-11-16T16:45:38.903913+00:00 1/6 Checking input files and recording hashes
+2026-11-16T16:45:39.027757+00:00 2/6 Calculating monthly reference results
+2026-11-16T16:45:39.116596+00:00 3/6 Preparing PostgreSQL
+2026-11-16T16:45:39.258006+00:00 4/6 Restoring an isolated database and rebuilding the view
+2026-11-16T16:45:39.921026+00:00 5/6 Running the historical forecasting benchmark
+2026-11-16T16:45:39.965307+00:00 6/6 Saving completion evidence

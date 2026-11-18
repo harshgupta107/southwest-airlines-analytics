@@ -1,0 +1,14 @@
+check,status,detail
+Required fields are populated,PASS,
+Numeric values are finite,PASS,
+Only Southwest carrier WN is present,PASS,
+Airport codes are three uppercase letters,PASS,
+Years are limited to 2023 and 2024,PASS,
+Months are integers from 1 to 12,PASS,
+Flight counts are non-negative integers,PASS,
+Delay minutes and attributed cause counts are non-negative,PASS,
+Carrier-airport-month keys are unique,PASS,Rows with duplicate keys: 0
+All 24 requested months are present,PASS,Missing months: []
+"Delayed, cancelled and diverted counts fit within total flights",PASS,
+Attributed delay counts reconcile within rounding tolerance,PASS,Maximum difference: 0.020000
+Cause delay minutes sum to total delay minutes,PASS,Maximum difference: 0.000000

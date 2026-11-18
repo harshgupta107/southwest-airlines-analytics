@@ -1,0 +1,11 @@
+{
+  "source": "SEC EDGAR Company Facts",
+  "source_url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000092380.json",
+  "company": "SOUTHWEST AIRLINES CO",
+  "cik": 92380,
+  "retrieved_at_utc": "2026-11-13T17:48:40.400549+00:00",
+  "raw_file": "data/raw/sec/companyfacts_20261113T174840400549Z.json",
+  "sha256": "1d6503344364d624931047a53450e85a668b6f7f7b94295c24ee624320756033",
+  "http_status": 200,
+  "bytes": 4141215
+}

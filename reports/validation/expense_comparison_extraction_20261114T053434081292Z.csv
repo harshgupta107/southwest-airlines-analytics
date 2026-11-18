@@ -1,0 +1,15 @@
+year,category,tag,status
+2023,"Salaries, wages and benefits",LaborAndRelatedExpense,PASS
+2023,Fuel and oil,FuelCosts,PASS
+2023,Maintenance,AircraftMaintenanceMaterialsAndRepairs,PASS
+2023,Landing fees and rentals,LandingFeesAndOtherRentals,PASS
+2023,Depreciation and amortization,DepreciationAndAmortization,PASS
+2023,Other operating expenses,OtherCostAndExpenseOperating,PASS
+2023,Total operating expenses,OperatingCostsAndExpenses,PASS
+2024,"Salaries, wages and benefits",LaborAndRelatedExpense,PASS
+2024,Fuel and oil,FuelCosts,PASS
+2024,Maintenance,AircraftMaintenanceMaterialsAndRepairs,PASS
+2024,Landing fees and rentals,LandingFeesAndOtherRentals,PASS
+2024,Depreciation and amortization,DepreciationAndAmortization,PASS
+2024,Other operating expenses,OtherCostAndExpenseOperating,PASS
+2024,Total operating expenses,OperatingCostsAndExpenses,PASS

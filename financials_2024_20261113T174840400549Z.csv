@@ -1,0 +1,5 @@
+metric,value_usd,unit,period_start,period_end,accession,source_tags,source_snapshot
+operating_revenue,27483000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,RevenueFromContractWithCustomerExcludingAssessedTax,companyfacts_20261113T174840400549Z.json
+operating_expenses,27162000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,OperatingCostsAndExpenses,companyfacts_20261113T174840400549Z.json
+operating_income,321000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,OperatingIncomeLoss,companyfacts_20261113T174840400549Z.json
+net_income,465000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,NetIncomeLoss,companyfacts_20261113T174840400549Z.json

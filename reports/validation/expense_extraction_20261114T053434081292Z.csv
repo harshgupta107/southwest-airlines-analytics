@@ -1,0 +1,7 @@
+category,tag,status
+"Salaries, wages and benefits",LaborAndRelatedExpense,PASS
+Fuel and oil,FuelCosts,PASS
+Maintenance,AircraftMaintenanceMaterialsAndRepairs,PASS
+Landing fees and rentals,LandingFeesAndOtherRentals,PASS
+Depreciation and amortization,DepreciationAndAmortization,PASS
+Other operating expenses,OtherCostAndExpenseOperating,PASS

@@ -1,0 +1,15 @@
+year,category,tag,expense_usd,unit,period_start,period_end,accession,source_snapshot
+2023,"Salaries, wages and benefits",LaborAndRelatedExpense,11152000000,USD,2023-01-01,2023-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2023,Fuel and oil,FuelCosts,6217000000,USD,2023-01-01,2023-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2023,Maintenance,AircraftMaintenanceMaterialsAndRepairs,1188000000,USD,2023-01-01,2023-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2023,Landing fees and rentals,LandingFeesAndOtherRentals,1789000000,USD,2023-01-01,2023-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2023,Depreciation and amortization,DepreciationAndAmortization,1522000000,USD,2023-01-01,2023-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2023,Other operating expenses,OtherCostAndExpenseOperating,3999000000,USD,2023-01-01,2023-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2023,Total operating expenses,OperatingCostsAndExpenses,25867000000,USD,2023-01-01,2023-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2024,"Salaries, wages and benefits",LaborAndRelatedExpense,12240000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2024,Fuel and oil,FuelCosts,5812000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2024,Maintenance,AircraftMaintenanceMaterialsAndRepairs,1353000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2024,Landing fees and rentals,LandingFeesAndOtherRentals,1962000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2024,Depreciation and amortization,DepreciationAndAmortization,1657000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2024,Other operating expenses,OtherCostAndExpenseOperating,4138000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json
+2024,Total operating expenses,OperatingCostsAndExpenses,27162000000,USD,2024-01-01,2024-12-31,0000092380-25-000024,companyfacts_20261113T174840400549Z.json

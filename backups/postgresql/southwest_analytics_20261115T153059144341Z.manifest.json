@@ -1,0 +1,11 @@
+{
+  "database": "southwest_analytics",
+  "created_at_utc": "2026-11-15T15:30:59.144341+00:00",
+  "postgres_major_version": "16",
+  "source_csv": "data/processed/bts_arrivals_2023_2024_20261113T180223779285Z.csv",
+  "source_csv_sha256": "a9d988cf03e7473b97220789877f9de5e9606a79541597d39ec87d4f3821e4e3",
+  "source_row_count": 2556,
+  "backup_file": "southwest_analytics_20261115T153059144341Z.dump",
+  "backup_sha256": "a18a348daaf426618e7779c59820712dcf5bfb7aa6dfec62324d9d3e67336f4c",
+  "restore_test_status": "NOT_YET_TESTED"
+}

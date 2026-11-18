@@ -1,0 +1,23 @@
+{
+  "run_id": "20261115T180837285855Z",
+  "source_file": "/content/drive/MyDrive/southwest_analytics/data/processed/sql_monthly_operations_20261113T180223779285Z.csv",
+  "source_sha256": "6431709aa4bd1c0b5e6a7f6c4655b1289f38594a0331e0c6570777eeb696b7b8",
+  "target": "Monthly BTS-reported Southwest domestic arrival flight counts",
+  "training_period": "2023-01 through 2023-12",
+  "evaluation_period": "2024-01 through 2024-12",
+  "forecast_origin": "2023-12-31",
+  "models": [
+    "seasonal_naive",
+    "calendar_adjusted_seasonal"
+  ],
+  "error_convention": "forecast minus actual; positive means overforecast",
+  "limitations": [
+    "Retrospective backtest using the saved source snapshot; not a reconstruction of data available in December 2023.",
+    "Only one training year and one evaluation year.",
+    "Calendar adjustment accounts for month length, not weekday mix.",
+    "No schedule, capacity, airport exit, or external predictors used.",
+    "2024 is the evaluation set, not an independent confirmation set for future model tuning.",
+    "Forecasts are analyst benchmarks, not company guidance or budgets.",
+    "No prediction intervals estimated."
+  ]
+}

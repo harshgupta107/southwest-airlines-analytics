@@ -1,0 +1,52 @@
+2026-11-13 17:48:40,435 | INFO | SEC source preserved: companyfacts_20261113T174840400549Z.json
+2026-11-13 17:48:47,477 | ERROR | Financial source audit failed; inspect candidate evidence.
+2026-11-13 17:51:49,387 | INFO | 2024 financial audit passed. Operating margin: 1.1680%
+2026-11-13 17:53:42,638 | INFO | 2024 expense breakdown reconciled and saved.
+2026-11-13 17:55:09,105 | INFO | 2023–2024 expense comparison validated and saved.
+2026-11-13 17:56:56,173 | INFO | Annual report downloaded and preserved.
+2026-11-13 17:56:58,625 | INFO | Saved 14 candidate management commentary passages.
+2026-11-13 17:59:27,462 | INFO | Saved 3 reviewed expense findings with source references.
+2026-11-13 18:02:23,943 | INFO | BTS source preserved and profiled: arrival_statistics_20261113T180223779285Z.zip
+2026-11-13 18:03:39,415 | INFO | BTS structural validation passed: 2556 rows.
+2026-11-13 18:04:49,295 | INFO | Monthly and annual BTS KPIs calculated and reconciled.
+2026-11-14 05:26:36,848 | INFO | SEC source preserved: companyfacts_20261114T052636815701Z.json
+2026-11-14 05:28:34,333 | INFO | SEC source preserved: companyfacts_20261114T052834281330Z.json
+2026-11-14 05:30:37,916 | INFO | Restored BTS checkpoint: bts_arrivals_2023_2024_20261113T180223779285Z.csv
+2026-11-14 05:31:40,490 | INFO | SEC source preserved: companyfacts_20261114T053140458241Z.json
+2026-11-14 05:31:42,187 | INFO | 2024 financial audit passed. Operating margin: 1.1680%
+2026-11-14 05:31:49,518 | INFO | Restored BTS checkpoint: bts_arrivals_2023_2024_20261113T180223779285Z.csv
+2026-11-14 05:34:34,120 | INFO | SEC source preserved: companyfacts_20261114T053434081292Z.json
+2026-11-14 05:34:34,188 | INFO | 2024 financial audit passed. Operating margin: 1.1680%
+2026-11-14 05:34:34,621 | INFO | 2024 expense breakdown reconciled and saved.
+2026-11-14 05:34:35,065 | INFO | 2023–2024 expense comparison validated and saved.
+2026-11-14 05:34:38,967 | INFO | Saved 14 candidate management commentary passages.
+2026-11-14 05:34:39,035 | INFO | Saved 3 reviewed expense findings with source references.
+2026-11-14 05:35:02,111 | INFO | BTS source preserved and profiled: arrival_statistics_20261114T053501895552Z.zip
+2026-11-14 05:35:02,313 | INFO | BTS structural validation passed: 2556 rows.
+2026-11-14 05:35:02,409 | INFO | Monthly and annual BTS KPIs calculated and reconciled.
+2026-11-14 05:35:20,161 | INFO | Delay-cause analysis completed and reconciled.
+2026-11-14 05:37:29,209 | INFO | Airport and monthly late-aircraft analysis completed.
+2026-11-14 06:42:15,488 | INFO | Restored BTS checkpoint: bts_arrivals_2023_2024_20261113T180223779285Z.csv
+2026-11-14 06:42:24,668 | INFO | SEC source preserved: companyfacts_20261114T064224489246Z.json
+2026-11-14 06:42:24,830 | INFO | 2024 financial audit passed. Operating margin: 1.1680%
+2026-11-14 06:42:25,283 | INFO | 2024 expense breakdown reconciled and saved.
+2026-11-14 06:42:25,826 | INFO | 2023–2024 expense comparison validated and saved.
+2026-11-14 06:42:31,094 | INFO | Saved 14 candidate management commentary passages.
+2026-11-14 06:42:31,170 | INFO | Saved 3 reviewed expense findings with source references.
+2026-11-14 06:42:49,067 | INFO | BTS source preserved and profiled: arrival_statistics_20261114T064248850934Z.zip
+2026-11-14 06:42:49,439 | INFO | BTS structural validation passed: 2556 rows.
+2026-11-14 06:42:49,560 | INFO | Monthly and annual BTS KPIs calculated and reconciled.
+2026-11-14 06:42:49,972 | INFO | Delay-cause analysis completed and reconciled.
+2026-11-14 06:42:50,119 | INFO | Airport and monthly late-aircraft analysis completed.
+2026-11-15 15:29:26,152 | INFO | Restored BTS checkpoint: bts_arrivals_2023_2024_20261113T180223779285Z.csv
+2026-11-15 15:29:56,844 | INFO | SEC source preserved: companyfacts_20261115T152956605502Z.json
+2026-11-15 15:29:57,084 | INFO | 2024 financial audit passed. Operating margin: 1.1680%
+2026-11-15 15:29:58,436 | INFO | 2024 expense breakdown reconciled and saved.
+2026-11-15 15:29:59,848 | INFO | 2023–2024 expense comparison validated and saved.
+2026-11-15 15:30:03,856 | INFO | Saved 14 candidate management commentary passages.
+2026-11-15 15:30:03,917 | INFO | Saved 3 reviewed expense findings with source references.
+2026-11-15 15:30:26,148 | INFO | BTS source preserved and profiled: arrival_statistics_20261115T153026009459Z.zip
+2026-11-15 15:30:26,638 | INFO | BTS structural validation passed: 2556 rows.
+2026-11-15 15:30:26,762 | INFO | Monthly and annual BTS KPIs calculated and reconciled.
+2026-11-15 15:30:27,381 | INFO | Delay-cause analysis completed and reconciled.
+2026-11-15 15:30:27,577 | INFO | Airport and monthly late-aircraft analysis completed.

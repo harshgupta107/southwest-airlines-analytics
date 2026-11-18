@@ -1,0 +1,7 @@
+{
+  "test_database": "southwest_restore_20261115t184531406040z",
+  "status": "PASS",
+  "months": 24,
+  "metrics": 13,
+  "method": "Saved SQL recreation followed by dashboard CSV comparison"
+}

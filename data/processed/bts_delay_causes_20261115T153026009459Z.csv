@@ -1,0 +1,11 @@
+year,cause,delay_minutes,delayed_arrivals_all_causes,share_of_delay_minutes_pct,minutes_per_delayed_arrival,source_snapshot,scope
+2023,Carrier,4308198.0,309963,27.97173166992718,13.899071824701657,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN
+2023,Weather,352239.0,309963,2.2869735308552395,1.1363904724112233,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN
+2023,National aviation system,2695845.0,309963,17.503246824708345,8.697312259850369,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN
+2023,Security,43158.0,309963,0.28021088989194953,0.13923597332584856,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN
+2023,Late-arriving aircraft,8002531.0,309963,51.95783708461729,25.817697596164702,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN
+2024,Carrier,4341650.0,289414,27.80352148267346,15.001520313460993,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN
+2024,Weather,378603.0,289414,2.4245382847315238,1.3081709938012673,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN
+2024,National aviation system,2763087.0,289414,17.694551325647108,9.547178090900925,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN
+2024,Security,42309.0,289414,0.27094288816704054,0.14618850504813174,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN
+2024,Late-arriving aircraft,8089819.0,289414,51.80644601878086,27.952410733413036,arrival_statistics_20261115T153026009459Z.zip,BTS reported domestic arrivals; carrier WN

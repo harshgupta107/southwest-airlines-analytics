@@ -1,0 +1,14 @@
+{
+  "label": "Retrospective analyst budget scenario; not official guidance",
+  "baseline_year": 2023,
+  "target_year": 2024,
+  "assumed_growth_fraction": "0",
+  "scenario_budget_usd": "25867000000",
+  "actual_usd": "27162000000",
+  "actual_minus_budget_usd": "1295000000",
+  "variance_pct": "5.006378783778559554644914370",
+  "source_file": "budget_source.csv",
+  "source_sha256": "bb83fb079445f37d913788d03da894fd21ea34ca4d2327cfa4fc54a2a7741404",
+  "status": "PASS",
+  "limitation": "Cost variance alone does not establish efficiency, performance or savings; no volume/price decomposition."
+}
